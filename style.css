@@ -1,0 +1,8 @@
+#counter-label{
+    margin-left: 250px;
+    font-size: 50px;
+    color: blue;
+}
+button#increasebtn,#decreasebtn,#resetbtn{
+    font-size: 40px;
+}
